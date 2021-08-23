@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/newmanix/nodejs-testing-sm21.git"
+    "url": "git+https://github.com/in43sh/it121-nodejs-testing.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/newmanix/nodejs-testing-sm21/issues"
+    "url": "https://github.com/in43sh/it121-nodejs-testing/issues"
   },
-  "homepage": "https://github.com/newmanix/nodejs-testing-sm21#readme",
+  "homepage": "https://github.com/in43sh/it121-nodejs-testing/blob/master/README.md",
   "devDependencies": {
     "chai": "^4.3.4",
     "chai-asserttype": "^1.0.5",
